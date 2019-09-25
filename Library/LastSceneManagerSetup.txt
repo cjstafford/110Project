@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Casey/Documents/110/110Project/stafford_casey_110-1-3f/110Project/Assets/Scenes/Game.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
